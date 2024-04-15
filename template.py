@@ -1,3 +1,4 @@
+# This code is used to create the base project structure.
 import os
 from pathlib import Path
 
